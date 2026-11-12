@@ -1,67 +1,36 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/hero.svg?v=1" alt="lostatgrac3"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lostatgrac3?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/lostatgrac3?style=flat-square&logo=github&label=followers&color=7aa2f7&labelColor=1a1b26&logoColor=c0caf5"/></a>
-  <a href="https://github.com/lostatgrac3?tab=repositories&sort=stargazers"><img alt="stars" src="https://img.shields.io/github/stars/lostatgrac3?affiliations=OWNER&style=flat-square&logo=starship&label=stars&color=bb9af7&labelColor=1a1b26&logoColor=c0caf5"/></a>
-  <a href="https://tryhackme.com/p/lostatgrac3"><img alt="tryhackme" src="https://img.shields.io/badge/tryhackme-lostatgrac3-f7768e?style=flat-square&logo=tryhackme&labelColor=1a1b26&logoColor=c0caf5"/></a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=lostatgrac3&style=flat-square&color=7dcfff&label=views"/>
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/header-light.svg" />
+  <img width="100%" alt="lostatgrac3. IT student at an HTL. Network automation, Linux and small tools." src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/header-dark.svg" />
 </picture>
 
-### `~/stats`
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats-light.svg" />
+  <img width="100%" alt="GitHub stats and top languages" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats-dark.svg" />
+</picture>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/dashboard.svg?v=3" alt="GitHub Stats, Top Languages and Streak"/>
-</p>
+<br/><br/>
 
-<a href="https://tryhackme.com/p/lostatgrac3">
-  <img src="https://cdn-images.tryhackme.com/public-profile/lostatgrac3/badge-dark-2d1c23a9ed43.png" alt="lostatgrac3's TryHackMe badge" width="400"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stack-light.svg" />
+  <img width="100%" alt="Stack: Python, Bash, TypeScript, Svelte, FastAPI, Arch, Hyprland, Docker, Ansible, Proxmox, Cisco, MikroTik, OPNsense, Splunk, Wireshark, MySQL, NATS, MQTT" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stack-dark.svg" />
+</picture>
 
-### `~/stack`
+<br/>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stack.svg?v=1" alt="Tech stack: Python, Bash, Svelte, Arch, Hyprland, Docker, Ansible, Proxmox, Cisco, MikroTik, OPNsense, Splunk, Elastic, Wireshark, MySQL, NATS, MQTT, Neovim and more"/>
-</p>
+#### Projects
 
-### `~/projects`
+[`motionary`](https://github.com/lostatgrac3/motionary) video wallpapers for Omarchy, per monitor<br/>
+[`p10k-theme-menu`](https://github.com/lostatgrac3/p10k-theme-menu) 41 Powerlevel10k themes with an fzf picker<br/>
+[`kubuntu-polybar`](https://github.com/lostatgrac3/kubuntu-polybar) Polybar and Rofi setup for KDE Plasma
 
-| repo | |
-|---|---|
-| [`motionary`](https://github.com/lostatgrac3/motionary) | video wallpapers for omarchy. per-monitor, seamless loops, smart automation |
-| [`p10k-theme-menu`](https://github.com/lostatgrac3/p10k-theme-menu) | 41 powerlevel10k themes + fzf picker with live preview |
-| [`kubuntu-polybar`](https://github.com/lostatgrac3/kubuntu-polybar) | transparent polybar + rofi rice for kde plasma, multi-monitor |
+#### School
 
-### `~/school`
+Diploma project on network automation for UniFi sites: reading, previewing, validating and rolling out config changes.<br/>
+Self-service VM portal on Proxmox with SvelteKit, FastAPI and NATS.<br/>
+Local LLM benchmarking, and an MQTT sensor pipeline into MySQL and Django.
 
-```
-~/school
-├── diploma/          network automation for unifi sites w/ an industry partner
-│                     read config → preview → validate → apply · vlan tests · diffs · regression
-├── vm-portal/        self-service vm provisioning on proxmox
-│                     sveltekit + tailwind dashboard · fastapi integration · nats messaging
-├── llm-eval/         local llm testing, benchmarking + validation
-└── mqtt-pipeline/    sense hat → paho → mosquitto → mysql → django dashboard (docker compose)
-```
+<sub>Labs: routing and switching on Cisco and MikroTik, OPNsense and OpenVPN, Active Directory, network forensics with Wireshark, ELK and Splunk, Docker and OpenShift.</sub>
 
-### `~/labs`
+<br/>
 
-```
-~/labs
-├── routing-switching/   cisco + mikrotik · 802.1q · stp/rstp · etherchannel · hsrp · ospf · ripv2
-│                        packet tracer · pnetlab · gns3
-├── firewall-vpn/        opnsense · lan/guest/server/dmz · nat/dnat · client isolation · openvpn
-│                        router acl automation w/ ansible
-├── windows-admin/       domain controller · gpo · server core file server · powershell
-├── forensics-logs/      pcaps w/ wireshark + tshark · opnsense → elk ingestion · splunk boss of the soc
-└── containers-db/       docker compose · kubernetes/openshift (oc) · sql · mysql replication
-```
-
-<p align="right"><sub><code>exit 0</code></sub></p>
+<sub><a href="https://tryhackme.com/p/lostatgrac3">TryHackMe</a></sub>
