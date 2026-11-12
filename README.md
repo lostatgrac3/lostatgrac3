@@ -34,11 +34,11 @@
 
 ### 🔥 Stats
 
-<p align="left">
-  <img height="195" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats.svg" alt="GitHub Stats"/>
-  <img height="195" src="https://streak-stats.demolab.com/?user=lostatgrac3&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats.svg" alt="GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/top-langs.svg" alt="Top Langs"/>
+  <img width="99%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/streak.svg" alt="GitHub Streak"/>
 </p>
-<img src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/top-langs.svg" alt="Top Langs"/>
 
 ### 🏴‍☠️ TryHackMe
 
