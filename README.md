@@ -35,10 +35,10 @@
 ### 🔥 Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lostatgrac3&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=lostatgrac3&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img height="195" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats.svg" alt="GitHub Stats"/>
+  <img height="195" src="https://streak-stats.demolab.com/?user=lostatgrac3&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostatgrac3&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" alt="Top Langs"/>
+<img src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/top-langs.svg" alt="Top Langs"/>
 
 ### 🏴‍☠️ TryHackMe
 
