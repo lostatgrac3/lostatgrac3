@@ -1,30 +1,13 @@
 <p align="center">
-  <a href="https://github.com/lostatgrac3">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=%24+whoami;lostatgrac3+%2F%2F+ricer+%E2%80%A2+scripter+%E2%80%A2+terminal+goblin;I+use+Arch+btw;sudo+rm+-rf+%2Fsleep;%2F%2F+it+works+on+my+machine" alt="typing banner"/>
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/hero.svg?v=1" alt="lostatgrac3"/>
 </p>
-
-<br clear="both">
 
 <p align="center">
-  <a href="https://github.com/lostatgrac3?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/lostatgrac3?style=for-the-badge&logo=github&label=Follow&color=236ad3&labelColor=1155ba&logoColor=white"/></a>
-  <a href="https://github.com/lostatgrac3?tab=repositories&sort=stargazers">
-    <img alt="stars" title="Total stars" src="https://img.shields.io/github/stars/lostatgrac3?affiliations=OWNER&style=for-the-badge&logo=starship&label=stars&color=55960c&labelColor=488207&logoColor=white"/></a>
-  <a href="https://github.com/lostatgrac3">
-    <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=lostatgrac3&style=for-the-badge&color=lightgrey&label=PROFILE+VIEWS"/></a>
+  <a href="https://github.com/lostatgrac3?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/lostatgrac3?style=flat-square&logo=github&label=followers&color=7aa2f7&labelColor=1a1b26&logoColor=c0caf5"/></a>
+  <a href="https://github.com/lostatgrac3?tab=repositories&sort=stargazers"><img alt="stars" src="https://img.shields.io/github/stars/lostatgrac3?affiliations=OWNER&style=flat-square&logo=starship&label=stars&color=bb9af7&labelColor=1a1b26&logoColor=c0caf5"/></a>
+  <a href="https://tryhackme.com/p/lostatgrac3"><img alt="tryhackme" src="https://img.shields.io/badge/tryhackme-lostatgrac3-f7768e?style=flat-square&logo=tryhackme&labelColor=1a1b26&logoColor=c0caf5"/></a>
+  <img alt="views" src="https://komarev.com/ghpvc/?username=lostatgrac3&style=flat-square&color=7dcfff&label=views"/>
 </p>
-
-<br/>
-
-```bash
-┌──(lostatgrac3㉿arch)-[~]
-└─$ cat about_me.txt
-  > dotfiles enjoyer · tiling WM addict · shell script necromancer
-  > currently: ricing setups nobody asked for
-  > uptime: 420 days · coffee: ∞ · sleep: 404 not found
-  > fun fact: my wallpaper is a video. yes, really.
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/github-contribution-grid-snake-dark.svg" />
@@ -32,154 +15,53 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-### 🔥 Stats
+### `~/stats`
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/dashboard.svg?v=3" alt="GitHub Stats, Top Languages and Streak"/>
 </p>
 
-### 🏴‍☠️ TryHackMe
-
 <a href="https://tryhackme.com/p/lostatgrac3">
   <img src="https://cdn-images.tryhackme.com/public-profile/lostatgrac3/badge-dark-2d1c23a9ed43.png" alt="lostatgrac3's TryHackMe badge" width="400"/>
 </a>
 
-### 🛠️ Featured Projects
-
-| Project | What it does |
-|---|---|
-| 🎞️ [**motionary**](https://github.com/lostatgrac3/motionary) | Video wallpaper manager for Omarchy – per-monitor, seamless looping, smart automation |
-| 🎨 [**p10k-theme-menu**](https://github.com/lostatgrac3/p10k-theme-menu) | 41 Powerlevel10k themes + fzf selector with live previews |
-| 🧊 [**kubuntu-polybar**](https://github.com/lostatgrac3/kubuntu-polybar) | Transparent Polybar + Rofi rice for KDE Plasma, multi-monitor |
-
-### 🧰 School Projects
-
-- **Diploma project · network automation** · Diploma project with an industry partner: network automation for UniFi sites, from reading configurations through previewing, validating and applying changes. I've worked on VLAN tests, config diffs and regression testing.
-- **VM self-service portal** · Team project for self-service VM provisioning on Proxmox. I've worked on the SvelteKit + Tailwind dashboard and the local FastAPI integration; the architecture uses NATS for messaging.
-- **Local LLM evaluation** · Testing, benchmarking and validating local LLMs for a team project.
-- **MQTT sensor pipeline** · Python + Paho publishing JSON readings from a Sense HAT emulator, Mosquitto and Docker Compose for messaging, MySQL and Django on the data and dashboard side.
-
-### 🧪 HTL Labs
-
-- **Routing & switching** · Built and troubleshot Cisco and MikroTik lab networks: IPv4 subnetting, 802.1Q VLANs and trunks, STP/RSTP, EtherChannel, HSRP, static routing, OSPF and RIPv2 redistribution. Packet Tracer, PNETLab and GNS3.
-- **Firewalls & VPNs** · OPNsense labs with LAN, guest, server and DMZ segments, firewall rules, NAT/DNAT, client isolation and OpenVPN remote access. Router ACL automation with Ansible.
-- **Windows administration** · Domain controller, Group Policy, a Windows Server Core file server and PowerShell-based troubleshooting in VMware.
-- **Network forensics & log analysis** · PCAP investigations with Wireshark and TShark, OPNsense log ingestion with Logstash, Elasticsearch and Kibana, and Splunk Boss of the SOC as a team.
-- **Containers & databases** · Multi-service labs with Docker Compose, a Kubernetes/OpenShift lab with `oc`, SQL queries, views, permissions, imports and MySQL replication.
-
-### ⚙️ Tech Stack
-
-```text
-$ whoami
-lostatgrac3 // HTL IT student · network automation · Linux tinkering
-```
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1b27?style=for-the-badge&logo=archlinux&logoColor=70a5fd)
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-1a1b27?style=for-the-badge&logo=svelte&logoColor=70a5fd)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=70a5fd)
-![Cisco](https://img.shields.io/badge/Cisco-1a1b27?style=for-the-badge&logo=cisco&logoColor=70a5fd)
-![Splunk](https://img.shields.io/badge/Splunk-1a1b27?style=for-the-badge&logo=splunk&logoColor=70a5fd)
-
-| Area | What I work with |
-| --- | --- |
-| Scripting & programming | Python, Bash, Zsh, PowerShell, JavaScript, TypeScript, SQL, HTML, CSS |
-| Web & desktop | Svelte, SvelteKit, Tailwind CSS, Node.js, npm, Vite, FastAPI, Pydantic, SQLAlchemy, Django, PyQt6, Tauri, Electron, React |
-| Linux & desktop tooling | Arch Linux, Omarchy, Ubuntu, Kubuntu, systemd, SSH, Btrfs, Hyprland, KDE Plasma, X11, Polybar, Rofi, Powerlevel10k, fzf, tmux |
-| Infrastructure & automation | Git, GitHub, GitLab, GitHub Actions, Docker, Docker Compose, Ansible, VMware Workstation, Proxmox VE, VirtualBox, Kubernetes, Red Hat OpenShift |
-| Networking & systems | Cisco IOS, MikroTik RouterOS, UniFi, OPNsense, OpenVPN, Windows Server Core, Active Directory, Group Policy, DNS, DHCP, Pi-hole |
-| Security & monitoring | Splunk and SPL, Elastic Stack, Wireshark, TShark, NetworkMiner, Nmap, Burp Suite, TryHackMe, Hack The Box |
-| Data & messaging | MySQL, MariaDB, SQLite, NATS, MQTT, Mosquitto, Paho MQTT |
-
-**Also in my toolbox** · C, C++ basics, Lua, Kali Linux, NixOS, Windows 11, Raspberry Pi, Arduino, Neovim, VS Code, Kitty, Alacritty, Markdown, Obsidian, Pandoc, LaTeX
-
-<details>
-<summary><b>🏷️ Full badge wall</b></summary>
-<br/>
-
-#### 🧠 Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&logo=gnubash&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Zsh-1a1b27?style=for-the-badge&logo=zsh&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Lua-1a1b27?style=for-the-badge&logo=lua&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=70a5fd"/>
-</div>
-
-#### 🧱 Frameworks & Libraries
-<div align="left">
-  <img src="https://img.shields.io/badge/Svelte-1a1b27?style=for-the-badge&logo=svelte&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Qt_(PyQt6)-1a1b27?style=for-the-badge&logo=qt&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=70a5fd"/>
-</div>
-
-#### 🖥️ Ricing & Desktop
-<div align="left">
-  <img src="https://img.shields.io/badge/Hyprland-1a1b27?style=for-the-badge&logo=hyprland&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Omarchy-1a1b27?style=for-the-badge&logo=archlinux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/KDE_Plasma-1a1b27?style=for-the-badge&logo=kdeplasma&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Polybar-1a1b27?style=for-the-badge&logo=linux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Rofi-1a1b27?style=for-the-badge&logo=linux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Powerlevel10k-1a1b27?style=for-the-badge&logo=zsh&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/fzf-1a1b27?style=for-the-badge&logo=gnubash&logoColor=70a5fd"/>
-</div>
-
-#### ⚙️ DevOps & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/tmux-1a1b27?style=for-the-badge&logo=tmux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Markdown-1a1b27?style=for-the-badge&logo=markdown&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Obsidian-1a1b27?style=for-the-badge&logo=obsidian&logoColor=70a5fd"/>
-</div>
-
-#### 💻 IDEs & Editors
-<div align="left">
-  <img src="https://img.shields.io/badge/NeoVim-1a1b27?style=for-the-badge&logo=neovim&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/VSCode-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Alacritty-1a1b27?style=for-the-badge&logo=alacritty&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Kitty-1a1b27?style=for-the-badge&logo=gnometerminal&logoColor=70a5fd"/>
-</div>
-
-#### 🧪 Cybersecurity & Networking
-<div align="left">
-  <img src="https://img.shields.io/badge/Cisco-1a1b27?style=for-the-badge&logo=cisco&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&logo=wireshark&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-1a1b27?style=for-the-badge&logo=burpsuite&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Nmap-1a1b27?style=for-the-badge&logo=linux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/HackTheBox-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/TryHackMe-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=70a5fd"/>
-</div>
-
-#### 🐧 Operating Systems
-<div align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1a1b27?style=for-the-badge&logo=archlinux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Kubuntu-1a1b27?style=for-the-badge&logo=kubuntu&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-1a1b27?style=for-the-badge&logo=kalilinux&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/NixOS-1a1b27?style=for-the-badge&logo=nixos&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Windows_11_(dual_boot,_for_shame)-1a1b27?style=for-the-badge&logo=windows11&logoColor=70a5fd"/>
-</div>
-
-#### 🧩 Others
-<div align="left">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-1a1b27?style=for-the-badge&logo=raspberrypi&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/VirtualBox-1a1b27?style=for-the-badge&logo=virtualbox&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Brave-1a1b27?style=for-the-badge&logo=brave&logoColor=70a5fd"/>
-  <img src="https://img.shields.io/badge/Monster_Energy-1a1b27?style=for-the-badge&logo=monster&logoColor=70a5fd"/>
-</div>
-
-</details>
-
-<br/>
+### `~/stack`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=565F89&center=true&vCenter=true&width=500&lines=%3E+exit+0" alt="exit 0"/>
+  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stack.svg?v=1" alt="Tech stack: Python, Bash, Svelte, Arch, Hyprland, Docker, Ansible, Proxmox, Cisco, MikroTik, OPNsense, Splunk, Elastic, Wireshark, MySQL, NATS, MQTT, Neovim and more"/>
 </p>
+
+### `~/projects`
+
+| repo | |
+|---|---|
+| [`motionary`](https://github.com/lostatgrac3/motionary) | video wallpapers for omarchy. per-monitor, seamless loops, smart automation |
+| [`p10k-theme-menu`](https://github.com/lostatgrac3/p10k-theme-menu) | 41 powerlevel10k themes + fzf picker with live preview |
+| [`kubuntu-polybar`](https://github.com/lostatgrac3/kubuntu-polybar) | transparent polybar + rofi rice for kde plasma, multi-monitor |
+
+### `~/school`
+
+```
+~/school
+├── diploma/          network automation for unifi sites w/ an industry partner
+│                     read config → preview → validate → apply · vlan tests · diffs · regression
+├── vm-portal/        self-service vm provisioning on proxmox
+│                     sveltekit + tailwind dashboard · fastapi integration · nats messaging
+├── llm-eval/         local llm testing, benchmarking + validation
+└── mqtt-pipeline/    sense hat → paho → mosquitto → mysql → django dashboard (docker compose)
+```
+
+### `~/labs`
+
+```
+~/labs
+├── routing-switching/   cisco + mikrotik · 802.1q · stp/rstp · etherchannel · hsrp · ospf · ripv2
+│                        packet tracer · pnetlab · gns3
+├── firewall-vpn/        opnsense · lan/guest/server/dmz · nat/dnat · client isolation · openvpn
+│                        router acl automation w/ ansible
+├── windows-admin/       domain controller · gpo · server core file server · powershell
+├── forensics-logs/      pcaps w/ wireshark + tshark · opnsense → elk ingestion · splunk boss of the soc
+└── containers-db/       docker compose · kubernetes/openshift (oc) · sql · mysql replication
+```
+
+<p align="right"><sub><code>exit 0</code></sub></p>

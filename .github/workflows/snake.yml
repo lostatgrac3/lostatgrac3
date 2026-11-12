@@ -24,6 +24,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           COUNT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: hero + stack cards
+        run: python3 .github/scripts/stack.py "${{ github.repository_owner }}" dist
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
