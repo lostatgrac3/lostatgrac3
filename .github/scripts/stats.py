@@ -44,11 +44,11 @@ query($login: String!, $after: String) {
 """
 
 
-def gql(variables):
+def gql(variables, query=QUERY, token=TOKEN):
     req = urllib.request.Request(
         "https://api.github.com/graphql",
-        data=json.dumps({"query": QUERY, "variables": variables}).encode(),
-        headers={"Authorization": f"bearer {TOKEN}", "User-Agent": "profile-stats"},
+        data=json.dumps({"query": query, "variables": variables}).encode(),
+        headers={"Authorization": f"bearer {token}", "User-Agent": "profile-stats"},
     )
     with urllib.request.urlopen(req) as r:
         data = json.load(r)
@@ -71,6 +71,13 @@ cc = user["contributionsCollection"]
 stars = sum(r["stargazerCount"] for r in repos)
 forks = sum(r["forkCount"] for r in repos)
 commits = cc["totalCommitContributions"] + cc["restrictedContributionsCount"]
+
+# Org repos the PAT can't reach drop out of the count entirely, while the
+# plain Actions token still sees them as "restricted" contributions -> take the max.
+if os.environ.get("COUNT_TOKEN"):
+    q = "query($login:String!){user(login:$login){contributionsCollection{totalCommitContributions restrictedContributionsCount}}}"
+    c2 = gql({"login": USER}, q, os.environ["COUNT_TOKEN"])["contributionsCollection"]
+    commits = max(commits, c2["totalCommitContributions"] + c2["restrictedContributionsCount"])
 
 langs = {}
 for r in repos:

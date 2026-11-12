@@ -22,6 +22,7 @@ jobs:
         env:
           # STATS_TOKEN (classic PAT, scopes: repo, read:user) also counts private repos
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          COUNT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: Platane/snk@v3
         with:
