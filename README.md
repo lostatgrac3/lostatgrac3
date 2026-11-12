@@ -42,14 +42,9 @@
 
 ### 🏴‍☠️ TryHackMe
 
-<p align="left">
-  <a href="https://tryhackme.com/p/lostatgrac3">
-    <img src="https://img.shields.io/badge/TryHackMe-lostatgrac3-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=c11111&labelColor=212c42"/>
-    <img src="https://img.shields.io/badge/Level-13-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=212c42"/>
-    <img src="https://img.shields.io/badge/Points-21.6k-1a1b27?style=for-the-badge&logo=target&logoColor=70a5fd&labelColor=212c42"/>
-    <img src="https://img.shields.io/badge/Badges-17-1a1b27?style=for-the-badge&logo=hackaday&logoColor=ffd700&labelColor=212c42"/>
-  </a>
-</p>
+<a href="https://tryhackme.com/p/lostatgrac3">
+  <img src="https://cdn-images.tryhackme.com/public-profile/lostatgrac3/badge-dark-2d1c23a9ed43.png" alt="lostatgrac3's TryHackMe badge" width="400"/>
+</a>
 
 ### 🛠️ Featured Projects
 
