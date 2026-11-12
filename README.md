@@ -52,7 +52,50 @@
 | 🎨 [**p10k-theme-menu**](https://github.com/lostatgrac3/p10k-theme-menu) | 41 Powerlevel10k themes + fzf selector with live previews |
 | 🧊 [**kubuntu-polybar**](https://github.com/lostatgrac3/kubuntu-polybar) | Transparent Polybar + Rofi rice for KDE Plasma, multi-monitor |
 
+### 🧰 School Projects
+
+- **Diploma project · network automation** · Diploma project with an industry partner: network automation for UniFi sites, from reading configurations through previewing, validating and applying changes. I've worked on VLAN tests, config diffs and regression testing.
+- **VM self-service portal** · Team project for self-service VM provisioning on Proxmox. I've worked on the SvelteKit + Tailwind dashboard and the local FastAPI integration; the architecture uses NATS for messaging.
+- **Local LLM evaluation** · Testing, benchmarking and validating local LLMs for a team project.
+- **MQTT sensor pipeline** · Python + Paho publishing JSON readings from a Sense HAT emulator, Mosquitto and Docker Compose for messaging, MySQL and Django on the data and dashboard side.
+
+### 🧪 HTL Labs
+
+- **Routing & switching** · Built and troubleshot Cisco and MikroTik lab networks: IPv4 subnetting, 802.1Q VLANs and trunks, STP/RSTP, EtherChannel, HSRP, static routing, OSPF and RIPv2 redistribution. Packet Tracer, PNETLab and GNS3.
+- **Firewalls & VPNs** · OPNsense labs with LAN, guest, server and DMZ segments, firewall rules, NAT/DNAT, client isolation and OpenVPN remote access. Router ACL automation with Ansible.
+- **Windows administration** · Domain controller, Group Policy, a Windows Server Core file server and PowerShell-based troubleshooting in VMware.
+- **Network forensics & log analysis** · PCAP investigations with Wireshark and TShark, OPNsense log ingestion with Logstash, Elasticsearch and Kibana, and Splunk Boss of the SOC as a team.
+- **Containers & databases** · Multi-service labs with Docker Compose, a Kubernetes/OpenShift lab with `oc`, SQL queries, views, permissions, imports and MySQL replication.
+
 ### ⚙️ Tech Stack
+
+```text
+$ whoami
+lostatgrac3 // HTL IT student · network automation · Linux tinkering
+```
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1b27?style=for-the-badge&logo=archlinux&logoColor=70a5fd)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=70a5fd)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-1a1b27?style=for-the-badge&logo=svelte&logoColor=70a5fd)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=70a5fd)
+![Cisco](https://img.shields.io/badge/Cisco-1a1b27?style=for-the-badge&logo=cisco&logoColor=70a5fd)
+![Splunk](https://img.shields.io/badge/Splunk-1a1b27?style=for-the-badge&logo=splunk&logoColor=70a5fd)
+
+| Area | What I work with |
+| --- | --- |
+| Scripting & programming | Python, Bash, Zsh, PowerShell, JavaScript, TypeScript, SQL, HTML, CSS |
+| Web & desktop | Svelte, SvelteKit, Tailwind CSS, Node.js, npm, Vite, FastAPI, Pydantic, SQLAlchemy, Django, PyQt6, Tauri, Electron, React |
+| Linux & desktop tooling | Arch Linux, Omarchy, Ubuntu, Kubuntu, systemd, SSH, Btrfs, Hyprland, KDE Plasma, X11, Polybar, Rofi, Powerlevel10k, fzf, tmux |
+| Infrastructure & automation | Git, GitHub, GitLab, GitHub Actions, Docker, Docker Compose, Ansible, VMware Workstation, Proxmox VE, VirtualBox, Kubernetes, Red Hat OpenShift |
+| Networking & systems | Cisco IOS, MikroTik RouterOS, UniFi, OPNsense, OpenVPN, Windows Server Core, Active Directory, Group Policy, DNS, DHCP, Pi-hole |
+| Security & monitoring | Splunk and SPL, Elastic Stack, Wireshark, TShark, NetworkMiner, Nmap, Burp Suite, TryHackMe, Hack The Box |
+| Data & messaging | MySQL, MariaDB, SQLite, NATS, MQTT, Mosquitto, Paho MQTT |
+
+**Also in my toolbox** · C, C++ basics, Lua, Kali Linux, NixOS, Windows 11, Raspberry Pi, Arduino, Neovim, VS Code, Kitty, Alacritty, Markdown, Obsidian, Pandoc, LaTeX
+
+<details>
+<summary><b>🏷️ Full badge wall</b></summary>
+<br/>
 
 #### 🧠 Languages
 <div align="left">
@@ -132,6 +175,8 @@
   <img src="https://img.shields.io/badge/Brave-1a1b27?style=for-the-badge&logo=brave&logoColor=70a5fd"/>
   <img src="https://img.shields.io/badge/Monster_Energy-1a1b27?style=for-the-badge&logo=monster&logoColor=70a5fd"/>
 </div>
+
+</details>
 
 <br/>
 
