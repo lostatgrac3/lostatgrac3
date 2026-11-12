@@ -40,6 +40,17 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostatgrac3&theme=tokyonight&layout=compact&hide_border=false&langs_count=8" alt="Top Langs"/>
 
+### 🏴‍☠️ TryHackMe
+
+<p align="left">
+  <a href="https://tryhackme.com/p/lostatgrac3">
+    <img src="https://img.shields.io/badge/TryHackMe-lostatgrac3-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=c11111&labelColor=212c42"/>
+    <img src="https://img.shields.io/badge/Level-13-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=212c42"/>
+    <img src="https://img.shields.io/badge/Points-21.6k-1a1b27?style=for-the-badge&logo=target&logoColor=70a5fd&labelColor=212c42"/>
+    <img src="https://img.shields.io/badge/Badges-17-1a1b27?style=for-the-badge&logo=hackaday&logoColor=ffd700&labelColor=212c42"/>
+  </a>
+</p>
+
 ### 🛠️ Featured Projects
 
 | Project | What it does |
