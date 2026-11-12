@@ -35,9 +35,7 @@
 ### 🔥 Stats
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/stats.svg" alt="GitHub Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/top-langs.svg" alt="Top Langs"/>
-  <img width="99%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/streak.svg" alt="GitHub Streak"/>
+  <img width="100%" src="https://raw.githubusercontent.com/lostatgrac3/lostatgrac3/output/dashboard.svg?v=3" alt="GitHub Stats, Top Languages and Streak"/>
 </p>
 
 ### 🏴‍☠️ TryHackMe

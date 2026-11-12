@@ -273,8 +273,27 @@ for i, v in enumerate(wvals):
     )
 streak_svg = frame(SW, SH, f"{USER}@github: ~/streak", "\n".join(body))
 
+# ---------- dashboard: all three cards in one image, perfectly aligned ----------
+GAP = 10
+
+
+def place(svg, x, y):
+    return svg.replace('<svg xmlns="http://www.w3.org/2000/svg" ', f'<svg x="{x}" y="{y}" ', 1)
+
+
+DW, DH = 2 * W + GAP, H + GAP + SH
+dashboard_svg = (
+    f'<svg xmlns="http://www.w3.org/2000/svg" width="{DW}" height="{DH}" viewBox="0 0 {DW} {DH}">\n'
+    + place(stats_svg, 0, 0) + "\n"
+    + place(langs_svg, W + GAP, 0) + "\n"
+    + place(streak_svg.replace(f'width="{SW}"', f'width="{DW}"', 1)
+                      .replace(f'viewBox="0 0 {SW} {SH}"', f'viewBox="0 0 {DW} {SH}"', 1), 0, H + GAP)
+    + "\n</svg>"
+)
+
 os.makedirs(OUT, exist_ok=True)
-for name, svg in [("stats.svg", stats_svg), ("top-langs.svg", langs_svg), ("streak.svg", streak_svg)]:
+for name, svg in [("stats.svg", stats_svg), ("top-langs.svg", langs_svg),
+                  ("streak.svg", streak_svg), ("dashboard.svg", dashboard_svg)]:
     with open(os.path.join(OUT, name), "w", encoding="utf-8") as f:
         f.write(svg)
 print(f"commits={commits} rank={rank} streak={current}/{longest} total={total_contrib} langs={[n for n, _ in top]}")
